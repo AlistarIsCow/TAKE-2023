@@ -1,0 +1,5 @@
+lab\bookings\controllers\IndexController.class
+lab\bookings\BookingsApplication.class
+lab\bookings\models\Booking.class
+lab\bookings\repositories\BookingRepository.class
+lab\bookings\controllers\BookingController.class
